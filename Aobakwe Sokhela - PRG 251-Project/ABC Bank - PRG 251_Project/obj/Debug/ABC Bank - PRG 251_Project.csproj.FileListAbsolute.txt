@@ -1,0 +1,12 @@
+C:\Users\MPS\Desktop\Belgium IT\2nd Year Modules\Programming 251\Assignments\Aobakwe Sokhela - PRG 251-Project\ABC Bank - PRG 251_Project\bin\Debug\ABC Bank - PRG 251_Project.exe.config
+C:\Users\MPS\Desktop\Belgium IT\2nd Year Modules\Programming 251\Assignments\Aobakwe Sokhela - PRG 251-Project\ABC Bank - PRG 251_Project\bin\Debug\ABC Bank - PRG 251_Project.exe
+C:\Users\MPS\Desktop\Belgium IT\2nd Year Modules\Programming 251\Assignments\Aobakwe Sokhela - PRG 251-Project\ABC Bank - PRG 251_Project\bin\Debug\ABC Bank - PRG 251_Project.pdb
+C:\Users\MPS\Desktop\Belgium IT\2nd Year Modules\Programming 251\Assignments\Aobakwe Sokhela - PRG 251-Project\ABC Bank - PRG 251_Project\obj\Debug\ABC Bank - PRG 251_Project.csproj.AssemblyReference.cache
+C:\Users\MPS\Desktop\Belgium IT\2nd Year Modules\Programming 251\Assignments\Aobakwe Sokhela - PRG 251-Project\ABC Bank - PRG 251_Project\obj\Debug\ABC_Bank___PRG_251_Project.frmAccHolder.resources
+C:\Users\MPS\Desktop\Belgium IT\2nd Year Modules\Programming 251\Assignments\Aobakwe Sokhela - PRG 251-Project\ABC Bank - PRG 251_Project\obj\Debug\ABC_Bank___PRG_251_Project.frmSignup.resources
+C:\Users\MPS\Desktop\Belgium IT\2nd Year Modules\Programming 251\Assignments\Aobakwe Sokhela - PRG 251-Project\ABC Bank - PRG 251_Project\obj\Debug\ABC_Bank___PRG_251_Project.frmWelcome.resources
+C:\Users\MPS\Desktop\Belgium IT\2nd Year Modules\Programming 251\Assignments\Aobakwe Sokhela - PRG 251-Project\ABC Bank - PRG 251_Project\obj\Debug\ABC_Bank___PRG_251_Project.Properties.Resources.resources
+C:\Users\MPS\Desktop\Belgium IT\2nd Year Modules\Programming 251\Assignments\Aobakwe Sokhela - PRG 251-Project\ABC Bank - PRG 251_Project\obj\Debug\ABC Bank - PRG 251_Project.csproj.GenerateResource.cache
+C:\Users\MPS\Desktop\Belgium IT\2nd Year Modules\Programming 251\Assignments\Aobakwe Sokhela - PRG 251-Project\ABC Bank - PRG 251_Project\obj\Debug\ABC Bank - PRG 251_Project.csproj.CoreCompileInputs.cache
+C:\Users\MPS\Desktop\Belgium IT\2nd Year Modules\Programming 251\Assignments\Aobakwe Sokhela - PRG 251-Project\ABC Bank - PRG 251_Project\obj\Debug\ABC Bank - PRG 251_Project.exe
+C:\Users\MPS\Desktop\Belgium IT\2nd Year Modules\Programming 251\Assignments\Aobakwe Sokhela - PRG 251-Project\ABC Bank - PRG 251_Project\obj\Debug\ABC Bank - PRG 251_Project.pdb

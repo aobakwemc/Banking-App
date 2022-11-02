@@ -1,0 +1,23 @@
+*Compare user input to existing list items.
+ -Maybe declare an int variable that compares the user input to list items.
+ -The declared int variable will be instantiated to input.CompareTo(item.List) --> the CompareTo method returns
+  a value of 0 (int) if the values match, and then let the user login. Else, display unknown user.
+ -We dont usually use the CompareTo method to sort, just a very rough idea... Rather use IComparable.
+
+*How to generate a random number. (for AccNum purposes)
+ -Recording; 19 Jul Omnikorn (08h04) -- around 1:29:00
+ -Random myRandomNum = new Random(); //dedclaring an object of Random
+ -int AccNum = myRandomNum.Next(1000, 3000); //declaring AccNum to receive a random number in the range of 1000 to 3000; .Next=generate a number.
+ -Now you can use and print AccNum.
+
+*Using DataGridView to display.
+ -Create a control of a DataGridView onto the form.
+ -Make sure to have a collection of some sort to display onto the DataGridView.
+ -When displaying a collection onto your DataGridView, use NameOfDataGridView.DataSource = NameOfCollection;
+ -By using the above option to display over a list, you eliminate the "redundancy" of iterating through each and every individaual 
+  item in the list and rather display the entire list's "data" through .DataSource onto the DataGridView. The DataGridView will display
+  in rows and columns according to properties/fields and their containing data from the list.
+ -To reload/reset a DataGridView's contents; use NameOfDataGridView.DataSource = null - by this, if you do have a control
+  such as a button click linked to the DataGridView, when it is pressed again, it would reload/reset the DataGridView
+ -In class, this is how we learnt to update a datagrid: static BindingSource NameOfBindSource= new BindingSource();
+  therafter, instantiate NameOfBindSource.DataSource to your list, and thereafter, NameOfDGV.DataSource = NameOfBindSource	
